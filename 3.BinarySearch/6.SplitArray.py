@@ -1,3 +1,7 @@
+# LeetCode Problem: 410. Split Array Largest Sum
+# Problem Link: https://leetcode.com/problems/split-array-largest-sum/
+
+
 class Solution:
     def check(self, nums, k, curr):
         sm = 0

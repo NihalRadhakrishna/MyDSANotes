@@ -1,3 +1,7 @@
+# LeetCode Problem: 1552. Magnetic Force Between Two Balls
+# Problem Link: https://leetcode.com/problems/magnetic-force-between-two-balls/
+
+
 class Solution:
     def canPlace(self, arr, k, dist):
         cows = 1

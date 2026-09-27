@@ -1,3 +1,7 @@
+# LeetCode Problem: 128. Longest Consecutive Sequence
+# Problem Link: https://leetcode.com/problems/longest-consecutive-sequence/
+
+
 class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
         num_set = set(nums)

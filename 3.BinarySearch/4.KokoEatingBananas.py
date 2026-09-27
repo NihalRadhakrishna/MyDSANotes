@@ -1,3 +1,7 @@
+# LeetCode Problem: 875. Koko Eating Bananas
+# Problem Link: https://leetcode.com/problems/koko-eating-bananas/
+
+
 import math
 
 

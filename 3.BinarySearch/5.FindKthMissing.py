@@ -1,3 +1,7 @@
+# LeetCode Problem: 1539. Kth Missing Positive Number
+# Problem Link: https://leetcode.com/problems/kth-missing-positive-number/
+
+
 class Solution:
     def findKthPositive(self, arr: list[int], k: int) -> int:
         left = 0

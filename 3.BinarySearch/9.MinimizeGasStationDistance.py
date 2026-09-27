@@ -1,3 +1,7 @@
+# LeetCode Problem: 774. Minimize Max Distance to Gas Station
+# Problem Link: https://leetcode.com/problems/minimize-max-distance-to-gas-station/
+
+
 # Binary search on the answer, similar to other minimization/maximization problems.
 # The difference is that the answer can contain decimal values, so the search
 # uses floating-point boundaries and stops when they are within 1e-6 precision.

@@ -1,3 +1,7 @@
+# LeetCode Problem: 189. Rotate Array
+# Problem Link: https://leetcode.com/problems/rotate-array/
+
+
 # Reversal approach (optimized)
 def rotate(self, nums: list[int], k: int) -> None:
         """
