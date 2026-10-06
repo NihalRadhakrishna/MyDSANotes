@@ -1,3 +1,16 @@
+// GCD properties:
+// 1. gcd(a, b) = gcd(b, a)
+// 2. gcd(a, b) = gcd(b, a % b)
+// 3. gcd(a, b) = gcd(b, a - b)
+// 4. gcd(a, b) = gcd(b, a + b)
+// 5. gcd(a, b) = gcd(b, a * b)
+// 6. gcd(a, b) = gcd(b, a / b)
+// 7. gcd(a, b) = gcd(b, a % b)
+
+
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
